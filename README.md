@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+const Nico9220 = {
+  pronouns: "he" | "him",
+  askMeAbout: ["web dev", "app dev", "music"],
+  code: [Javascript,HTML, CSS],
+  tools: [React],
+}
+
+
 <!--
 **Nico9220/Nico9220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
