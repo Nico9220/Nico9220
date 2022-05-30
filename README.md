@@ -1,12 +1,19 @@
 ### Hi there 👋
 
-
-const Nico9220 = {
+```javascript
+const thai = {
   pronouns: "he" | "him",
-  askMeAbout: ["web dev", "app dev", "music"],
-  code: [Javascript,HTML, CSS],
-  tools: [React],
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "RailsGirls POA"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
+```
 
 
 <!--
