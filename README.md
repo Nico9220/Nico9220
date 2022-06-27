@@ -23,7 +23,7 @@ const Nico9220 = {
 ---
 
 
-### Podes encontrarme en mis redes 🌍
+### Mis redes 🌍
 
 <a href="https://twitter.com/CoderNicolas">
   <img align="left" alt="Neel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
