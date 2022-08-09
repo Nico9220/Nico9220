@@ -7,6 +7,7 @@ const Nico9220 = {
   pronouns: "he" | "him",
   code: [Javascript,HTML, CSS],
   tools: [React],
+  learning : [Python]
 }
 ```
 ### Lenguajes y herramientas
