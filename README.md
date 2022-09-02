@@ -4,7 +4,6 @@ Soy un desarrollador web explorando el mundo de la programación. :wink:
 
 ```javascript
 const Nico9220 = {
-  pronouns: "he" | "him",
   code: [Javascript,HTML, CSS],
   tools: [React],
   learning : [Python]
