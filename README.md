@@ -6,7 +6,7 @@ Soy un desarrollador web explorando el mundo de la programación. :wink:
 const Nico9220 = {
   code: [Javascript,HTML, CSS],
   tools: [React],
-  learning : [Python]
+  learning : [PHP]
 }
 ```
 ### Lenguajes y herramientas
